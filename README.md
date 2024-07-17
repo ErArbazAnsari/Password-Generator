@@ -1,4 +1,3 @@
-
 ## Password Generator App
 Live Demo: https://passwordgenerator-erarbazansari.netlify.app/
 
